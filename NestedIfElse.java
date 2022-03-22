@@ -25,7 +25,13 @@ public class NestedIfElse {
 				if(a==c)
 				System.out.println("a is equal to c");
 				else
-					System.out.println("a is smaller than c");
+				System.out.println("a is smaller than c");
+
+
+hi nilesh
+
+
+
 			}	
 		}else {
 			if(a==b) {
